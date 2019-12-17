@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextViewsAndButtons</string>
+    <string name="button_name">Submit</string>
+    <string name="show_text">Hello!</string>
+</resources>
